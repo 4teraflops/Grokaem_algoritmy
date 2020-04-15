@@ -15,4 +15,4 @@ def fact(x):  # Вычисление факториала (5! - факториа
         return x * fact(x-1)  # Рекурсивный случай
 
 
-print(fact(3))
+print("\n", fact(3))
