@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d765a54-9a58-4fb0-a399-d0f5a3c7f88e" name="Default Changelist" comment="быстрая сортировка массива" />
+    <list default="true" id="9d765a54-9a58-4fb0-a399-d0f5a3c7f88e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/07_algoritm_deicstryi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_exercise_A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_rekursiya.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_sortirovka_viborom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_quick_sort.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,20 +25,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aZ9kjeP7syP4xaP6k9Kt1F1d6Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/06_search_in_breadth.py" />
   </component>
-  <component name="RunManager" selected="Python.4_quick_sort">
-    <configuration name="3_rekursiya" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_exercise_A">
+    <configuration name="01_binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grokaem_algoritmy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Grokaem_algoritmy\3_rekursiya.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Grokaem_algoritmy\01_binary_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_sortirovka_viborom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_search_in_breadth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grokaem_algoritmy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +74,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_sortirovka_viborom.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Grokaem_algoritmy\06_search_in_breadth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_algoritm_deicstryi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grokaem_algoritmy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_algoritm_deicstryi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_exercise_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grokaem_algoritmy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_exercise_A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,9 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.07_exercise_A" />
+        <item itemvalue="Python.07_algoritm_deicstryi" />
+        <item itemvalue="Python.06_search_in_breadth" />
+        <item itemvalue="Python.01_binary_search" />
         <item itemvalue="Python.4_quick_sort" />
-        <item itemvalue="Python.3_rekursiya" />
-        <item itemvalue="Python.3_sortirovka_viborom" />
       </list>
     </recent_temporary>
   </component>
@@ -141,47 +195,81 @@
       <option name="project" value="LOCAL" />
       <updated>1586938242435</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="быстрая сортировка массива">
+      <created>1586938342561</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586938342561</updated>
+    </task>
+    <task id="LOCAL-00006" summary="бинарный поиск">
+      <created>1587107535307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587107535307</updated>
+    </task>
+    <task id="LOCAL-00007" summary="бинарный поиск">
+      <created>1587113856404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587113856404</updated>
+    </task>
+    <task id="LOCAL-00008" summary="поиск в ширину">
+      <created>1587116860935</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587116860935</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="рекурсивные функции" />
     <MESSAGE value="сортировка массива выбором" />
     <MESSAGE value="быстрая сортировка массива" />
-    <option name="LAST_COMMIT_MESSAGE" value="быстрая сортировка массива" />
+    <MESSAGE value="бинарный поиск" />
+    <MESSAGE value="поиск в ширину" />
+    <option name="LAST_COMMIT_MESSAGE" value="поиск в ширину" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1586938330068">
+    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1587123234437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586938330068" />
-    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1586932414189">
+    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587123234437" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1587117190985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586932414189" />
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587117190985" />
     <state x="812" y="414" key="Github.ShareDialog" timestamp="1586933146850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="812" y="414" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586933146850" />
-    <state width="977" height="912" key="GridCell.Tab.0.bottom" timestamp="1586937351165">
+    <state width="976" height="912" key="GridCell.Tab.0.bottom" timestamp="1587123075761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="977" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586937351165" />
-    <state width="977" height="912" key="GridCell.Tab.0.center" timestamp="1586937351164">
+    <state width="976" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587123075761" />
+    <state width="976" height="912" key="GridCell.Tab.0.center" timestamp="1587123075760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="977" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586937351164" />
-    <state width="977" height="912" key="GridCell.Tab.0.left" timestamp="1586937351164">
+    <state width="976" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587123075760" />
+    <state width="976" height="912" key="GridCell.Tab.0.left" timestamp="1587123075760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="977" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586937351164" />
-    <state width="977" height="912" key="GridCell.Tab.0.right" timestamp="1586937351164">
+    <state width="976" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587123075760" />
+    <state width="976" height="912" key="GridCell.Tab.0.right" timestamp="1587123075761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="977" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586937351164" />
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1586938244626">
+    <state width="976" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587123075761" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1587123237601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586938244626" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587123237601" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1587106750986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587106750986" />
   </component>
 </project>
