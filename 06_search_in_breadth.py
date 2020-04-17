@@ -1,3 +1,5 @@
+# Это поиск в ширину
+
 from _collections import deque
 
 graph = {}
