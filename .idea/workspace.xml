@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d765a54-9a58-4fb0-a399-d0f5a3c7f88e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07_algoritm_deicstryi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_exercise_A.py" afterDir="false" />
+    <list default="true" id="9d765a54-9a58-4fb0-a399-d0f5a3c7f88e" name="Default Changelist" comment="we">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_rekursiya.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_sortirovka_viborom.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_quick_sort.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +218,28 @@
       <option name="project" value="LOCAL" />
       <updated>1587116860935</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="поиск в ширину">
+      <created>1587123235134</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587123235134</updated>
+    </task>
+    <task id="LOCAL-00010" summary="поиск в ширину">
+      <created>1587123256083</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587123256083</updated>
+    </task>
+    <task id="LOCAL-00011" summary="we">
+      <created>1587123314819</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587123314819</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -232,13 +248,14 @@
     <MESSAGE value="быстрая сортировка массива" />
     <MESSAGE value="бинарный поиск" />
     <MESSAGE value="поиск в ширину" />
-    <option name="LAST_COMMIT_MESSAGE" value="поиск в ширину" />
+    <MESSAGE value="we" />
+    <option name="LAST_COMMIT_MESSAGE" value="we" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1587123255505">
+    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1587130204469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587123255505" />
+    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587130204469" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1587117190985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -247,26 +264,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="812" y="414" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586933146850" />
-    <state width="976" height="912" key="GridCell.Tab.0.bottom" timestamp="1587123075761">
+    <state width="976" height="912" key="GridCell.Tab.0.bottom" timestamp="1587130205120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="976" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587123075761" />
-    <state width="976" height="912" key="GridCell.Tab.0.center" timestamp="1587123075760">
+    <state width="976" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587130205120" />
+    <state width="976" height="912" key="GridCell.Tab.0.center" timestamp="1587130205120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="976" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587123075760" />
-    <state width="976" height="912" key="GridCell.Tab.0.left" timestamp="1587123075760">
+    <state width="976" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587130205120" />
+    <state width="976" height="912" key="GridCell.Tab.0.left" timestamp="1587130205120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="976" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587123075760" />
-    <state width="976" height="912" key="GridCell.Tab.0.right" timestamp="1587123075761">
+    <state width="976" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587130205120" />
+    <state width="976" height="912" key="GridCell.Tab.0.right" timestamp="1587130205120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="976" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587123075761" />
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1587123258583">
+    <state width="976" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587130205120" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1587123316224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587123258583" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587123316224" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1587106750986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
